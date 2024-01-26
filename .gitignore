@@ -1,0 +1,6 @@
+dist
+.venv
+*.pyc
+__pycache__
+poetry.lock
+/example/uploads
